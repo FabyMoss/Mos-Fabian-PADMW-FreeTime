@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "547802403542",
+    "project_id": "curs-android-1",
+    "storage_bucket": "curs-android-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547802403542:android:6d5f4e42ba645ac768af77",
+        "android_client_info": {
+          "package_name": "com.android.cursone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547802403542-uur8dchfm1j1mmgfd3bi77214r1obu60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtkTmQSuqzZ_zYLZ1zp7CV37C0MYQQfK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547802403542-uur8dchfm1j1mmgfd3bi77214r1obu60.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547802403542:android:311cd46a372b6b5668af77",
+        "android_client_info": {
+          "package_name": "com.example.lemonade"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547802403542-uur8dchfm1j1mmgfd3bi77214r1obu60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtkTmQSuqzZ_zYLZ1zp7CV37C0MYQQfK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547802403542-uur8dchfm1j1mmgfd3bi77214r1obu60.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
